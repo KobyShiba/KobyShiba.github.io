@@ -1,3 +1,3 @@
 # KobyShiba.github.io
-Personal Website
-(kobyshiba.dog)[https://kobyshiba.dog/]
+Personal Website <br>
+[kobyshiba.dog](https://kobyshiba.dog/)
