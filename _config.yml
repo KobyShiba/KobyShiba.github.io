@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include: [".well-known"]
+=======
+include: [".well-known"]
+>>>>>>> b7441b05d29e1b6bd9ad96150f057e86eeafe9e4
